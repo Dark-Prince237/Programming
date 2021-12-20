@@ -6,6 +6,7 @@ int main()
     int n,sum;
     printf("enter nth term: ");
     scanf("%d",&n);
+       
     sum=sum_of_nth(n);
     printf("%d",sum);
     
