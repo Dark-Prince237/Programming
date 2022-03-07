@@ -36,6 +36,7 @@ int main()
     // method 3 strlev
 
     printf("string length using strlen is %ld",strlen(S));
+    
    
 
     
