@@ -12,4 +12,4 @@ def get_permutation(string, i=0):
    	 
         get_permutation(words, i + 1)
 
-print(get_permutation('yup'))
+print(get_permutation('dog'))
